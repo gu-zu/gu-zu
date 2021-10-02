@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gu-zu
 - 👀 I’m interested in nodejs/javascript
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me {I'm busy}
-- 🌱 I’m currently learning *something
+- 🌱 I’m currently learning Go
 
 <!---
 gu-zu/gu-zu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
