@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gu-zu
-- 👀 I’m interested in nodejs/javascript
-- 📫 How to reach me {I'm busy}
+- 👀 I’m interested in golang and other compiled languages
+- 📫 How to reach me g.k.w.zuijdgeest@student.tue.nl
 - 🌱 I’m currently learning Go
 
 <!---
