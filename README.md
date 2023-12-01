@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gu-zu
-- 👀 I’m interested in golang and other compiled languages
+- 👀 I’m interested in golang and C
 - 📫 How to reach me g.k.w.zuijdgeest@student.tue.nl
 - 🌱 I’m currently learning Go
 
