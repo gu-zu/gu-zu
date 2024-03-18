@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gu-zu
 - 👀 I’m interested in golang and C
-- 📫 How to reach me g.k.w.zuijdgeest@student.tue.nl
+- 📫 How to reach me: contact@guuszuijdgeest.nl
 - 🌱 I’m currently learning Go
 
 <!---
