@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gu-zu
-- 👀 I’m interested in golang and C
+- 👀 I’m interested in Golang, C and Javascript
 - 📫 How to reach me: contact@guuszuijdgeest.nl
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning MongoDB
 
 <!---
 gu-zu/gu-zu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
